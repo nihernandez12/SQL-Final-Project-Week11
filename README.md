@@ -1,1 +1,2 @@
 "# Week11FinalProject" 
+This is a menu-driven application that demonstrates how to perfom CRUD (Create, Read, Update, and Delete) operations on a project database. I have created a connection through MYSQL database and inserted recods into the tables, which is done by using DBeaver. This is a Maven project that is created in Eclipse. This project also uses draw.io to draw the ERD diagrams and DBeaver to connect to the teables. We use SQL to code this project. 
